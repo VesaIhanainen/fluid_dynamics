@@ -1,4 +1,4 @@
-#A project for various computational tests in fluid dynamics written in Julia. 
+# A project for various computational tests in fluid dynamics written in Julia. 
 
 Hopefully these are correct and in case you spot an error please inform me so I can perhaps fix it.
 
