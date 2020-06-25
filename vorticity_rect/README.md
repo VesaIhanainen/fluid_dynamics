@@ -1,6 +1,7 @@
 
 
 Small test of using Gauss-Seidel for solving stream equation ψ(x,y) 
+
 ![eq][equa] 
 
 [equa]: equation.svg
